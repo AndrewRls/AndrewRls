@@ -18,7 +18,7 @@ I also create content and share knowledge on **software development**.
   <a href="https://instagram.com/andrew_rls">
     <img src="https://img.shields.io/badge/Instagram-@andrew_rls-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/igorblacconaro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/andrew-rls" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 
 ---

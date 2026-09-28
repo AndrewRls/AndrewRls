@@ -1,8 +1,5 @@
 # Hi 👋, Im Andrew Rodrigues
 
-🚀 Systems Analysis and Development Student - FIAP
-Focused on Front-End, Java, Python and Fullstack Development
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP | Faculdade de Informática e Administração Paulista.  
 💻 Desenvolvedor em formação.  
 🚀 Transformando ideias em projetos e sempre aprendendo coisas novas.
@@ -19,6 +16,11 @@ Atualmente estou me aprimorando **React, TypeScript, Python, Java e Banco de dad
 I build **high-performance web systems**.  
 
 ---
+
+<div>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api?username=AndrewRls"/>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndrewRls"/>
+</div>
 
 ### 🤖 Tecnologias
 <div style="display: flex">
@@ -47,32 +49,6 @@ I build **high-performance web systems**.
     <img src="https://img.shields.io/badge/Instagram-@andrew_rls-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="https://www.linkedin.com/in/andrew-rls" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-
-
----
-
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
-
-
-### DevOps & Tools
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndrewRls&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRls&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Philosophy
@@ -84,8 +60,8 @@ I build **high-performance web systems**.
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se gostar do meu trabalho, considere favoritar meu repositório
+🤝 Sempre aberto a colaborações, parcerias e novas ideias
 
 
 sinta-se livre para comentar, compartilhar e testar meus projetos.

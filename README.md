@@ -18,8 +18,8 @@ I build **high-performance web systems**.
 ---
 
 <div>
-    <img height="200em" src="https://github-stats-extended.vercel.app/api?username=AndrewRls"/>
-    <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndrewRls"/>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api?username=AndrewRls&show_icons=true&theme=tokyonight"/>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndrewRls&theme=tokyonight&layout=donut"/>
 </div>
 
 ### 🤖 Tecnologias
